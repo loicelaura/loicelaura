@@ -14,9 +14,11 @@
 - **Tools & Platforms:** Git, GitHub, VS Code
   
 ## Projects
-- **[Project Name](link-to-project):** Brief description of what the project is about.
-- **[Project Name](link-to-project):** Brief description of what the project is about.
-- **[Project Name](link-to-project):** Brief description of what the project is about.
+- **[WEB PROJECT](https://github.com/loicelaura/WEB-PROJECT):** A web development project showcasing my skills in HTML, CSS, and JavaScript.
+- **[Code Alpha Hangman Game](https://github.com/loicelaura/Code_Alpha_Hangman_Game):** A fun and interactive Hangman game built using Python, demonstrating my programming logic and game development skills.
+- **[API Building](https://github.com/loicelaura/ApiBuilding):** A project focused on building and interacting with APIs using Python, showcasing backend development skills.
+- **[Feb 2024 Python Hackathon](https://github.com/loicelaura/Feb-2024-PythonHack2):** A project from the Feb 2024 Python Hackathon, demonstrating advanced Python skills and problem-solving abilities.
+
 
 <!---
 loicelaura/loicelaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
