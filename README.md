@@ -1,26 +1,100 @@
-# Hi there, I'm Loice Okello! 👋
+Hi there, I'm Loice Okello 👋
+Junior Frontend Developer | React | Firebase | HTML | CSS | JavaScript
 
-## About Me
-- 👀 I’m interested in Python, web development, and building impactful projects.
-- 🌱 I’m currently learning software enginering specializing in Python and web development through the Power Learning Programme .
-- 💞️ I’m looking to collaborate on open-source projects and web development initiatives.
-- 📫 How to reach me: You can email me at [loicelaura@gmail.com] or connect with me on [www.linkedin.com/in/loiceokello].
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love exploring new technologies and I'm passionate about coding for social good!
+I build clean, responsive, and user-focused web applications that solve real-world problems. I'm passionate about using technology for social impact and creating intuitive digital experiences.
 
-## Skills
-- **Programming Languages:** Python, JavaScript
-- **Web Development:** HTML, CSS, Node.js, Django
-- **Tools & Platforms:** Git, GitHub, VS Code
-  
-## Projects
-- **[WEB PROJECT](https://github.com/loicelaura/WEB-PROJECT):** A web development project showcasing my skills in HTML, CSS, and JavaScript.
-- **[Code Alpha Hangman Game](https://github.com/loicelaura/Code_Alpha_Hangman_Game):** A fun and interactive Hangman game built using Python, demonstrating my programming logic and game development skills.
-- **[API Building](https://github.com/loicelaura/ApiBuilding):** A project focused on building and interacting with APIs using Python, showcasing backend development skills.
-- **[Feb 2024 Python Hackathon](https://github.com/loicelaura/Feb-2024-PythonHack2):** A project from the Feb 2024 Python Hackathon, demonstrating advanced Python skills and problem-solving abilities.
+📍 Based in Kenya
+📧 Email: loicelaura@gmail.com
 
+🔗 LinkedIn: www.linkedin.com/in/loiceokello
 
-<!---
-loicelaura/loicelaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+
+🎓 Bachelor of Commerce (Procurement) – Kenyatta University
+
+💻 Frontend Developer trained through ALX Software Engineering Program
+
+🧠 Virtual Assistant with experience in admin support & data entry
+
+🌱 Currently improving my React and Firebase integration skills
+
+❤️ Passionate about tech for community impact and social good
+
+🛠 Tech Stack & Skills
+Frontend
+
+HTML5, CSS3, JavaScript (ES6+)
+
+React.js
+
+Tailwind CSS
+
+Responsive Web Design
+
+Backend & Databases
+
+Firebase Authentication & Firestore
+
+Basic Node.js
+
+Other Skills
+
+Git & GitHub
+
+UI/UX fundamentals
+
+API Integration
+
+Project & Task Management
+
+📂 Featured Projects
+🌟 Kazibora – Freelance Task Marketplace
+
+A web app connecting clients with service providers in Kenya.
+Tech: React, Firebase, Tailwind CSS
+Features: Job posting, messaging, user roles, authentication, dashboard system.
+
+✅ Daily Activity Planner App
+
+A productivity app for managing tasks, goals, journaling, and schedules.
+Tech: React, Firebase
+Features: Task tracking, calendar view, goal setting, motivational stats.
+
+🎨 Portfolio Website
+
+Personal portfolio showcasing my work, skills, and contact details.
+Tech: HTML, CSS, JavaScript
+
+🧠 Python Projects
+
+Hangman Game
+
+API Building
+
+Python Hackathon Projects
+
+(Links available in my repositories)
+
+📌 What I'm Currently Working On
+
+Improving UI/UX for the Kazibora platform
+
+Enhancing task automation features
+
+Expanding my React component library
+
+Building scalable frontend layouts
+
+🤝 Let's Connect
+
+I'm open to:
+
+Frontend Developer roles
+
+Web Development Internships
+
+Remote opportunities
+
+Collaborative projects
+
+Feel free to reach out or explore my repositories!
